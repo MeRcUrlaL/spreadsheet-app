@@ -7,7 +7,9 @@
   },
   "rules": {
     "linebreak-style": "off",
-    "semi": "off"
+    "import/no-unresolved": "off",
+    "semi": "off",
+    "class-methods-use-this": "off"
   },
   "extends": "airbnb-base"
 }
